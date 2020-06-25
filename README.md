@@ -1,5 +1,5 @@
-# hackerrankchallenges
-Solved hackerrank challenges
+# Hacker Rank Challenges
+Hacker Rank Challenges that I've solved
 
 ## Challenge  Description
 Twins.py
