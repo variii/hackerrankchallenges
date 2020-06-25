@@ -1,7 +1,7 @@
 # hackerrankchallenges
 Solved hackerrank challenges
 
-# Challenge  Description
+## Challenge  Description
 Twins.py
 
 Two strings, a and b, are said to be twins only if they can be made equivalent by performing some number of operations on one or both strings. There are two possible operations:
